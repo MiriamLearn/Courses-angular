@@ -1,0 +1,8 @@
+
+.mat-mdc-button:not(:disabled) {
+    color: #5ebd54;
+}
+.mat-mdc-raised-button[_ngcontent-ng-c1127644382]:not(:disabled) {
+    color: #5ebd54;
+    background-color: var(--mdc-protected-button-container-color, var(--mat-sys-surface));
+}
